@@ -1,0 +1,4 @@
+Database and presentation's slides can be founded in the following link:
+https://drive.google.com/drive/folders/1CDzpSWHLqZJYBTjA1X7ctAcRjghFi4R3?usp=sharing
+
+In order to be possible to run, you should copy and paste all the images to the folder "original images". 
